@@ -80,5 +80,3 @@ root.after(5000, AL)
 
 
 root.mainloop()
-
-
