@@ -1,0 +1,6 @@
+If you download this app from Github then your system will think
+this is malware because it is downloaded and not published. This
+is NOT malware. Do not try downloading this from other websites 
+or people. They might have added extra code to make it malicious.
+
+Thank you
